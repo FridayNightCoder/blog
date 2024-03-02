@@ -1,0 +1,12 @@
+[submodule "fridaynightcodingblog/fridaynightcoding.github.io"]
+	path = fridaynightcodingblog/fridaynightcoding.github.io
+	url = https://github.com/artur-devs/fridaynightcoding.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/artur-devs/fridaynightcoding.github.io.git
+	branch = main
+[submodule "fridaynightcodingblog/public"]
+	path = fridaynightcodingblog/public
+	url = https://github.com/FridayNightCoder/fridaynightcoder.github.io.git
+	branch = main
